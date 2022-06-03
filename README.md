@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamssingh.
 - 👀 I’m interested in creating great products.
-- 🌱 I’m currently learning CS.
+- 🌱 I’m currently learning & earning through CS.
 - 💞️ I’m looking to collaborate on open source helping projects.
 - 📫 You can reach me at ssingh883710@gmail.com
 
